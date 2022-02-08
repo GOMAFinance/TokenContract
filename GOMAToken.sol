@@ -18,6 +18,8 @@
 	50% Burn of Total Supply, 500,000,000,000,000
 	3% of every trade goes to existing holders
 	3% of every trade is burned
+	1% of every trade is auto-locked in liquidity
+	1% of every trade goes to charity
 	Burning on every trade makes GOMA TRULY HYPER-Deflationary - to a final total supply of 50,000,000,000 GOMA
 */
 
